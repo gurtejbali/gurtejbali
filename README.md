@@ -1,69 +1,44 @@
-# Hi, I'm Gurtej Bali 👋
+# Hi, I'm Gurtej Singh 👋
 
-🎓 B.Tech in Computer Science — Big Data & Analytics  
-📊 Aspiring Data Analyst | Python | SQL | Power BI  
-💻 Building practical data and analytics projects
+**Aspiring Data Analyst** | B.E. Computer Science, Big Data Analytics (2026), Chandigarh University
+📍 Punjab, India  |  📧 gurtejbali1214@gmail.com  |  🔗 [LinkedIn](https://linkedin.com/in/your-id)
 
----
-
-## 🚀 About Me
-
-I'm a Computer Science graduate specializing in Big Data & Analytics.
-
-I'm currently building my skills in:
-
-- 🐍 Python
-- 🗄️ SQL
-- 📊 Data Analysis
-- 📈 Power BI
-- 🧮 Statistics
-- 🤖 Machine Learning
-- ⚡ Big Data & Apache Spark
-
-I enjoy turning raw data into meaningful insights and building practical projects that solve real-world problems.
+I turn raw data into clear insights using Python and Power BI. I'm building hands-on projects in forecasting and analytics, and I'm learning SQL and Excel.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-**Languages**
-- Python
-- SQL
+**Use regularly:** Python · Pandas · Matplotlib · Power BI
+**Learning now:** SQL · Excel
+**Coursework exposure:** Big Data fundamentals (Hadoop, Spark concepts) · IT automation with Python
 
-**Data & Analytics**
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
-- Excel
-
-**Big Data**
-- Hadoop
-- Apache Spark
-
-**Tools**
-- Git
-- GitHub
-- Jupyter Notebook
+> Only list a tool here once you have used it in a project.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-🚧 Currently building my portfolio...
+| Project | What it does | Tools | Status |
+|---|---|---|---|
+| **Stock Price Trend Prediction** | Compares LSTM, Random Forest and Linear Regression on historical stock data | Python, Pandas, Scikit-learn, TensorFlow | 🚧 [add link when ready] |
+| **Traffic Congestion Prediction** | Classifies traffic into Low / Moderate / High congestion from traffic data | Python, Pandas, Scikit-learn | 🚧 [add link when ready] |
+| **Smart Irrigation Advisory** | Predicts irrigation need from soil moisture and weather data | Python, Pandas, Scikit-learn | 🚧 [add link when ready] |
+| **Power BI Dashboard** | Interactive dashboard built from a public dataset | Power BI | 🚧 [add link when ready] |
 
-More projects coming soon.
+Each project will include the dataset source, the method, the results, and what I learned.
 
 ---
 
-## 📈 My Current Goal
+## 📜 Certifications
 
-Building a strong foundation in Data Analytics and developing real-world projects to become job-ready.
+- Data Analysis and Visualization with Power BI, Microsoft (Coursera)
+- Data Visualization with Python, IBM (Coursera)
+- Google IT Automation with Python, Google (Coursera)
+- Data Science at Scale, University of Washington (Coursera)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's connect
 
-- GitHub: [@gurtejbali](https://github.com/gurtejbali)
-- LinkedIn: Add your LinkedIn profile here
+I'm looking for entry-level Data Analyst roles. Reach me by email or on LinkedIn.
