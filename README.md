@@ -19,12 +19,12 @@ I turn raw data into clear insights using Python and Power BI. I'm building hand
 
 ## 📂 Projects
 
-| Project | What it does | Tools | Status |
+| Project | What it does | Tools | 
 |---|---|---|---|
-| **Stock Price Trend Prediction** | Compares LSTM, Random Forest and Linear Regression on historical stock data | Python, Pandas, Scikit-learn, TensorFlow | 🚧 [add link when ready] |
-| **Traffic Congestion Prediction** | Classifies traffic into Low / Moderate / High congestion from traffic data | Python, Pandas, Scikit-learn | 🚧 [add link when ready] |
-| **Smart Irrigation Advisory** | Predicts irrigation need from soil moisture and weather data | Python, Pandas, Scikit-learn | 🚧 [add link when ready] |
-| **Power BI Dashboard** | Interactive dashboard built from a public dataset | Power BI | 🚧 [add link when ready] |
+| **Stock Price Trend Prediction** | Compares LSTM, Random Forest and Linear Regression on historical stock data | Python, Pandas, Scikit-learn, TensorFlow | 
+| **Traffic Congestion Prediction** | Classifies traffic into Low / Moderate / High congestion from traffic data | Python, Pandas, Scikit-learn | 
+| **Smart Irrigation Advisory** | Predicts irrigation need from soil moisture and weather data | Python, Pandas, Scikit-learn | 
+| **Power BI Dashboard** | Interactive dashboard built from a public dataset | Power BI | 
 
 Each project will include the dataset source, the method, the results, and what I learned.
 
